@@ -1,2 +1,7 @@
 # pion_examples
-Scrpipts with pion examples
+
+# Установка
+
+## Linux
+
+https://github.com/OnisOris/pion
